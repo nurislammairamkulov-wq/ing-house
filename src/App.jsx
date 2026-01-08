@@ -1,14 +1,12 @@
 import "./App.css";
+import Home from "./pages/Home";
 
 function App() {
-  const [count, setCount] = useState(0);
-
-  return;
-  <>
-    <header>
-      <h1>zerdxtcfyvgu</h1>
-    </header>
-  </>;
+  return (
+    <>
+      <Home />
+    </>
+  );
 }
 
 export default App;
