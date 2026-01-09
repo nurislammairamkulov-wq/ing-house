@@ -7,7 +7,6 @@ function Home() {
   return (
     <>
       <Header />
-      <HEAD />
       <Card />
       <Hero />
       <Section1 />
