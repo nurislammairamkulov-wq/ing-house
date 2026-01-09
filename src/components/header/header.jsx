@@ -10,8 +10,8 @@ function Header() {
         <a href="">Репродукции</a>
         <a href="">Новинки</a>
         <a href="">О нас</a>
+        <img src={Image2} alt="" />
       </div>
-      <img src={Image2} alt="" />
     </header>
   );
 }
